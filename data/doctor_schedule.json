@@ -1,0 +1,71 @@
+{
+  "doctor_id": "dr-001",
+  "timezone": "America/New_York",
+  "working_hours": {
+    "mon": [
+      "09:00-17:00"
+    ],
+    "tue": [
+      "09:00-17:00"
+    ],
+    "wed": [
+      "09:00-17:00"
+    ],
+    "thu": [
+      "09:00-17:00"
+    ],
+    "fri": [
+      "09:00-17:00"
+    ]
+  },
+  "existing_appointments": [
+    {
+      "booking_id": "APPT-2024-001",
+      "date": "2024-01-16",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "appointment_type": "consultation"
+    },
+    {
+      "booking_id": "APPT-2024-002",
+      "date": "2024-01-17",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "appointment_type": "consultation"
+    },
+    {
+      "booking_id": "APPT-003",
+      "date": "2024-01-15",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "appointment_type": "consultation",
+      "patient": {
+        "name": "Sheshu",
+        "email": "sheshurapalli@gmail.com",
+        "phone": "+917671808401"
+      },
+      "reason": "I've been having headaches",
+      "status": "confirmed"
+    },
+    {
+      "booking_id": "APPT-004",
+      "date": "2024-01-15",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "appointment_type": "consultation",
+      "patient": {
+        "name": "Sheshu",
+        "email": "sheshurapalli@gmail.com",
+        "phone": "+917671808401"
+      },
+      "reason": "I've been having vomitings",
+      "status": "confirmed"
+    }
+  ],
+  "appointment_types": {
+    "consultation": 30,
+    "followup": 15,
+    "physical": 45,
+    "specialist": 60
+  }
+}

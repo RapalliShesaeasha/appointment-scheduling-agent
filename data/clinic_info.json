@@ -1,0 +1,27 @@
+[
+  {
+    "id": "faq_1",
+    "question": "Where are you located?",
+    "answer": "We are located at 123 Wellness Drive, Suite 100. Parking is available behind the building."
+  },
+  {
+    "id": "faq_2",
+    "question": "What are your hours of operation?",
+    "answer": "Our clinic is open Monday to Friday from 8:00 AM to 5:00 PM and Saturday from 9:00 AM to 1:00 PM."
+  },
+  {
+    "id": "faq_3",
+    "question": "What insurance do you accept?",
+    "answer": "We accept Blue Cross Blue Shield, Aetna, Cigna, UnitedHealthcare, and Medicare. We also accept self-pay patients."
+  },
+  {
+    "id": "faq_4",
+    "question": "What is your cancellation policy?",
+    "answer": "Please notify us at least 24 hours before your appointment to avoid a cancellation fee."
+  },
+  {
+    "id": "faq_5",
+    "question": "What should I bring for my first visit?",
+    "answer": "Please bring photo ID, insurance card, a list of current medications, and any relevant medical records."
+  }
+]
